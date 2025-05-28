@@ -4,7 +4,7 @@
 
 <a href="https://chanjoon.github.io/"><img src="https://img.shields.io/badge/ Blog-black?style=flat-square&logo=github&logoColor=white"/></a>
 
-Master student at KAIST Robotics Program, with an interest in **Agile planning of aerial vehicles**.
+Master student in KAIST Robotics Program, interested in **Agile planning of aerial vehicles**.
 
 ---
 **Skills**
