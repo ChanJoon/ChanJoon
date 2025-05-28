@@ -3,7 +3,7 @@
   <a href="https://chanjoon.github.io/">
     <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=github&logoColor=white" alt="Blog"/>
   </a>
-  <a herf="https://chanjoon.github.io/assets/Chanjoon_Park_CV_2505.pdf">
+  <a href="https://chanjoon.github.io/assets/Chanjoon_Park_CV_2505.pdf">
     <img src="https://img.shields.io/badge/CV-green?logo=readthedocs&style=for-the-badge&logoColor=white">
   </a>
 </p>
