@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">Master student in KAIST Robotics Program</h2>
-<p align="center">Interested in <strong>agile planning of aerial vehicles</strong></p>
+<p align="center">Interested in <strong>agile planning for aerial vehicles</strong></p>
 
 ---
 
